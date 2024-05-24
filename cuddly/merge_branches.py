@@ -28,7 +28,8 @@ def merge_branches():
         print("No new changes in main branch.")
 
 if __name__ == "__main__":
-    merge_branches()
-    # Sleep for 12 hours before checking for updates again
-    time.sleep(300)  # 5 minutes in seconds
+    while True:
+        merge_branches()
+        # Sleep for 5 minutes before checking for updates again
+        time.sleep(300)  # 5 minutes in seconds
 # done
