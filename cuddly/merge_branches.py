@@ -31,4 +31,4 @@ if __name__ == "__main__":
     merge_branches()
     # Sleep for 12 hours before checking for updates again
     time.sleep(300)  # 5 minutes in seconds
-# done git fetch origin
+# done
