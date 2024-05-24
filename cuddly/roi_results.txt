@@ -1,0 +1,12 @@
+
+-----CURRENCY--COMMODITY--BAL--ROI--P/L-----
+Cryptocurrency: LTC
+Price change in %: Open 85.5 Close 120.0 (40.35%)
+LTC balance: 0.58479532
+Investment Amount: $50.00
+----------------------------------------------
+Unrealized Balance: $70.18
+ROI: 40.35%
+P/L: $20.18
+----------------------------------------------
+--Risk disclosure: Not financial advice--
